@@ -1,21 +1,108 @@
-# Caio César Ponte
+<!-- HEADER VISUAL -->
 
-## Profile
-Caio César Ponte is a versatile professional with a solid background in both economics and software development. With an analytical orientation, he excels at leveraging data-driven insights to inform decision-making and drive project success.
+<h1 align="center">Caio César Ponte</h1>
+<p align="center">
+  Economics • Data • Software Engineering • Financial Markets
+</p>
 
-## Background
-With a degree in Economics, Caio has developed a strong understanding of economic principles and market dynamics. His experience in various sectors has equipped him with the ability to analyze and interpret complex data, providing valuable insights that influence strategy and operations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Driven%20Analysis-black?style=flat" />
+  <img src="https://img.shields.io/badge/Background-Software%20Development-black?style=flat" />
+  <img src="https://img.shields.io/badge/Field-Economics-black?style=flat" />
+</p>
 
-## Technical Skills
-- **Programming Languages:** Python, JavaScript, Java
-- **Frameworks:** React, Node.js, Django
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jenkins
+---
 
-## Current Focus
-Caio is currently focusing on enhancing his software development skills while applying them in economic analyses. He is passionate about creating innovative solutions that bridge the gap between technology and economics.
+## 🧠 Professional Orientation
 
-## Contact Information
-For inquiries or collaboration opportunities, you can reach Caio at: 
-- Email: caio@example.com
-- LinkedIn: linkedin.com/in/caio-cesar-ponte
+Economics student with a technical background in software development, oriented toward analytical work, quantitative reasoning, and evidence-based decision frameworks.
+
+Primary interests sit at the intersection of:
+
+• Data Analysis & Processing  
+• Python & Computational Workflows  
+• Economic Reasoning & Modeling  
+• Financial Markets & Investment Logic  
+
+---
+
+## 🔬 Analytical Mindset
+
+Strong bias toward structured thinking, empirical validation, and model-consistent reasoning.
+
+Particular emphasis on:
+
+✔ Evidence over narratives  
+✔ Signal extraction from noisy environments  
+✔ Logical decomposition of complex problems  
+✔ Systems & decision-driven analysis  
+
+---
+
+## 🛠 Technical Background
+
+Built through multi-year experience in real-world software development environments, contributing to:
+
+• Clean architecture & code organization  
+• Data structuring & transformation logic  
+• Pipeline-oriented thinking  
+• Analytical debugging & problem isolation  
+
+Core tools & concepts:
+
+<p>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</p>
+
+---
+
+## 📊 Quantitative & Data Focus
+
+Experience and ongoing development in:
+
+• Data manipulation & transformation  
+• Analytical workflows  
+• Computational problem solving  
+• Logic-driven modeling approaches  
+
+Actively expanding capabilities in:
+
+✔ Statistics & inference  
+✔ Quantitative economics  
+✔ Data-intensive analysis  
+✔ Economic interpretation of datasets  
+
+---
+
+## 📈 Financial Markets Direction
+
+Long-term professional focus on analytical and data-driven roles within finance and economics-related domains.
+
+Currently studying and developing knowledge in:
+
+• Market structures & investment logic  
+• Quantitative reasoning applied to finance  
+• Data-supported decision processes  
+
+Relevant track:
+
+🎯 ANCORD Certification Path  
+🎯 Evidence-based investment frameworks  
+
+---
+
+## 🎯 Guiding Principle
+
+> Data → Structure → Models → Decisions
+
+---
+
+## 📫 Contact
+
+LinkedIn  
+https://www.linkedin.com/in/caio-cesar-ponte-economist/
+
+---
