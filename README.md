@@ -103,6 +103,6 @@ Relevant track:
 ## 📫 Contact
 
 LinkedIn  
-https://www.linkedin.com/in/caio-cesar-ponte-economist/
+[https://www.linkedin.com/in/caiocesarponteadvisor/](https://www.linkedin.com/in/caiocesarponteadvisor/)
 
 ---
